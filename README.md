@@ -1,4 +1,4 @@
-# Desafio DIO Clases de um jogo
+# Desafio DIO
 
 # Escrevendo as classes de um Jogo
 
